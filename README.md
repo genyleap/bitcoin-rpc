@@ -1,7 +1,6 @@
 # Bitcoin RPC Client
-
 A lightweight and easy-to-use C++ client for interacting with a Bitcoin node via JSON-RPC. This library provides a comprehensive interface to communicate with a Bitcoin node, enabling developers to perform various blockchain operations, manage wallets, and interact with the Bitcoin network.
-
+![splash](https://github.com/user-attachments/assets/9c6d1243-c826-4fe3-8a38-609aae710929)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![C++](https://img.shields.io/badge/C++-23-red.svg)](https://en.cppreference.com/w/cpp/23)
 
